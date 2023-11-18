@@ -1,0 +1,15 @@
+/Users/gui/Projects/abstract_exercise/abstract_exercise/bin/Debug/net7.0/abstract_exercise
+/Users/gui/Projects/abstract_exercise/abstract_exercise/bin/Debug/net7.0/abstract_exercise.deps.json
+/Users/gui/Projects/abstract_exercise/abstract_exercise/bin/Debug/net7.0/abstract_exercise.runtimeconfig.json
+/Users/gui/Projects/abstract_exercise/abstract_exercise/bin/Debug/net7.0/abstract_exercise.dll
+/Users/gui/Projects/abstract_exercise/abstract_exercise/bin/Debug/net7.0/abstract_exercise.pdb
+/Users/gui/Projects/abstract_exercise/abstract_exercise/obj/Debug/net7.0/abstract_exercise.csproj.AssemblyReference.cache
+/Users/gui/Projects/abstract_exercise/abstract_exercise/obj/Debug/net7.0/abstract_exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gui/Projects/abstract_exercise/abstract_exercise/obj/Debug/net7.0/abstract_exercise.AssemblyInfoInputs.cache
+/Users/gui/Projects/abstract_exercise/abstract_exercise/obj/Debug/net7.0/abstract_exercise.AssemblyInfo.cs
+/Users/gui/Projects/abstract_exercise/abstract_exercise/obj/Debug/net7.0/abstract_exercise.csproj.CoreCompileInputs.cache
+/Users/gui/Projects/abstract_exercise/abstract_exercise/obj/Debug/net7.0/abstract_exercise.dll
+/Users/gui/Projects/abstract_exercise/abstract_exercise/obj/Debug/net7.0/refint/abstract_exercise.dll
+/Users/gui/Projects/abstract_exercise/abstract_exercise/obj/Debug/net7.0/abstract_exercise.pdb
+/Users/gui/Projects/abstract_exercise/abstract_exercise/obj/Debug/net7.0/abstract_exercise.genruntimeconfig.cache
+/Users/gui/Projects/abstract_exercise/abstract_exercise/obj/Debug/net7.0/ref/abstract_exercise.dll
